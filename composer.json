@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/clinic_two",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "ak546",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Clinic_two\\Classes\\" : "classes\\"
+    }
+  }
+}
